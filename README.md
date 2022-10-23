@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-- 🎯 Focusing on Backend & CloudNative & Serverless & Event Driver Architecture
+- 🎯 Focusing on Backend & Full Stack & CloudNative & Serverless & Event Driver Architecture
 - 🌱 Learning Rust & Big Data
 - 🧮 Algorithm noob
 
