@@ -24,7 +24,3 @@ Here are some ideas to get you started:
 ### Profile Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=walterlife)](https://github.com/ryo-ma/github-profile-trophy)
-
-📊 **Most Used Languages**
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=walterlife&layout=compact)](https://github.com/muwoo/github-readme-stats)
